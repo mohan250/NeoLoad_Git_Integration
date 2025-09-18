@@ -1,0 +1,16 @@
+# Project description file
+
+project.name=dEMO123
+project.version=8.10
+project.original.version=8.10
+product.name=NeoLoad
+product.original.name=NeoLoad
+ssh.trustUnknownHosts.MONITORS=false
+monitor.tls.insecure=false
+product.original.version=2025.1.2
+project.is-open-test-settings-after-upload=false
+project.id=59c7dc4e-c4a5-4e9f-9827-4404e9c043e3
+project.config.path=config.zip
+project.config.storage=ZIP
+team.server.enabled=true
+team.server.project=/mohan250/NeoLoad_Git_Integration.git
