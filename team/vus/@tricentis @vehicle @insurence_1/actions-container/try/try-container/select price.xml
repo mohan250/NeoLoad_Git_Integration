@@ -1,0 +1,10 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="select price" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
+    uid="df139a4e-f49e-4295-a137-3c0ff9546942" weightsEnabled="false">
+    <weighted-embedded-action uid="9527e3b8-e030-42f1-bbd0-5c72e8364919"/>
+    <weighted-embedded-action uid="2d251d12-c3f7-4079-9dfe-435d2a589da8"/>
+    <weighted-embedded-action uid="b4873575-7cf0-411b-bd25-10aac69dd268"/>
+    <weighted-embedded-action uid="cfcba2bc-dfd6-48b4-86f4-49fedde20dc0"/>
+    <weighted-embedded-action uid="443edf99-af25-42f9-b0f9-e3e55cb1a584"/>
+</basic-logical-action-container>
