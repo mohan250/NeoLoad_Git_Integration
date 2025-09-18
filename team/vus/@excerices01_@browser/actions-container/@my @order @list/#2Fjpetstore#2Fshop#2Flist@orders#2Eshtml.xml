@@ -1,0 +1,40 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/jpetstore/shop/listOrders.shtml"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@excerices01_@browser/%resources%/recorded-artifacts/9edb17e8-9875-45e4-8e05-d95ce7a33660.zip"
+    slaProfileEnabled="true" slaProfileName="Demo" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="9edb17e8-9875-45e4-8e05-d95ce7a33660">
+    <embedded-action>7337f9fe-44fb-4829-9c7f-96f7547564d1</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_9edb17e8-9875-45e4-8e05-d95ce7a33660.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="text/html;charset=ISO-8859-1"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/jpetstore/shop/listOrders.shtml"
+    path="/jpetstore/shop/listOrders.shtml" postType="6"
+    recordedArtifactZipFileName="team/vus/@excerices01_@browser/%resources%/recorded-artifacts/9edb17e8-9875-45e4-8e05-d95ce7a33660.zip"
+    recordedResponseCode="200" responseSize="5118"
+    serverUid="tri-hc2rcc4" slaProfileEnabled="true"
+    slaProfileName="Demo" uid="7337f9fe-44fb-4829-9c7f-96f7547564d1" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_7337f9fe-44fb-4829-9c7f-96f7547564d1.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_7337f9fe-44fb-4829-9c7f-96f7547564d1.txt</requestContentFileDescription>
+    <header name="Accept" value="text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Cookie" value="JSESSIONID=3E2726CC60E1AE0E3BE39BE157C563C8"/>
+    <header name="Host" value="tri-hc2rcc4:8080"/>
+    <header name="Proxy-Connection" value="keep-alive"/>
+    <header name="Referer" value="http://tri-hc2rcc4:8080/jpetstore/shop/editAccountForm.shtml"/>
+    <header name="Upgrade-Insecure-Requests" value="1"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Server: Apache-Coyote/1.1&#xd;
+Content-Type: text/html;charset=ISO-8859-1&#xd;
+Content-Length: 5118&#xd;
+Date: Tue, 26 Aug 2025 07:10:46 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

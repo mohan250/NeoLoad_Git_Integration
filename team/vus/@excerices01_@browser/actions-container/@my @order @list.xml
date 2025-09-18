@@ -1,0 +1,6 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="My Order List" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="true"
+    slaProfileName="Demo" uid="d79b24b0-8253-4f43-9c6e-60de197928df" weightsEnabled="false">
+    <weighted-embedded-action uid="9edb17e8-9875-45e4-8e05-d95ce7a33660"/>
+</basic-logical-action-container>

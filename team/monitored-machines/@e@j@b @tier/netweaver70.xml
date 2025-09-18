@@ -1,0 +1,4 @@
+<connection-netweaver70 domain="" interval="5000" login=""
+    name="netweaver70"
+    password="zeqTi0mMhvV/sd20gVLNA2qQGktuNeJ1S9h8YY7UTuC7bXHOhsMfeNIwX9/V+9s6$3"
+    server-address="EJB Tier" server-port="50104" uid="805b31ab-c534-45e7-8d60-8492c5e1e621"/>

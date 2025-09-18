@@ -1,0 +1,4 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="Select Product" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="true"
+    slaProfileName="Demo" uid="6554499a-d3b6-42eb-a0b3-25fd7f1e374d" weightsEnabled="false"/>
