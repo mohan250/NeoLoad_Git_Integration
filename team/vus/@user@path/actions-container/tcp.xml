@@ -1,6 +1,0 @@
-<basic-logical-action-container element-number="1" execution-type="0"
-    name="tcp" pacingEnd="0" pacingMode="MODE_NO_PACING" pacingStart="0"
-    pacingValue="0" slaProfileEnabled="true" slaProfileName="Demo"
-    uid="389842ac-81cf-4db6-8553-52d2df653306" weightsEnabled="false">
-    <weighted-embedded-action uid="8e76d3d6-72ae-4d2b-9a44-6e93e241fb4d"/>
-</basic-logical-action-container>
