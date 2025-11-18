@@ -1,0 +1,8 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="check out" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
+    uid="621cfdc2-2d86-45ca-a110-5e12b4698618" weightsEnabled="false">
+    <weighted-embedded-action uid="d8b4a536-931e-449a-84de-0a77b66cb680"/>
+    <weighted-embedded-action uid="629d5824-ce74-44c3-9d24-b605cc0726d7"/>
+    <weighted-embedded-action uid="53aa3ccf-3d80-4a5b-b2a5-de593220483f"/>
+</basic-logical-action-container>

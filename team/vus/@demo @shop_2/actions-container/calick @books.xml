@@ -1,0 +1,8 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="calick Books" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
+    uid="e2d4cd3b-1752-41d7-85ca-8e73b12b26da" weightsEnabled="false">
+    <weighted-embedded-action uid="0ba5bb2f-747c-4658-b942-fd08db9a9f30"/>
+    <weighted-embedded-action uid="9ea5463f-bc30-4779-84c2-d7a0cffab361"/>
+    <weighted-embedded-action uid="7accdc6d-9450-4b19-9610-4198a4b59eda"/>
+</basic-logical-action-container>

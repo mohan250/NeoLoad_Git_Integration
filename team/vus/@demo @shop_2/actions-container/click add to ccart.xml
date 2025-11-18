@@ -1,0 +1,6 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="click add to ccart" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
+    uid="8afbe934-f238-4966-acd1-cf7e1fef4e75" weightsEnabled="false">
+    <weighted-embedded-action uid="59e6f9e6-4b35-45aa-9a6a-b7c1544b26ba"/>
+</basic-logical-action-container>
